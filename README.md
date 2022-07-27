@@ -11,7 +11,7 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davymendes&show_icons=true&locale=en" alt="davymendes" width="500" height="300"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davymendes&show_icons=true&locale=en&layout=compact" alt="davymendes" width="500" height="400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davymendes&show_icons=true&locale=en&layout=compact" alt="davymendes" width="600" height="400" />
 </p>
 
 </p>
