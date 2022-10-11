@@ -12,6 +12,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davymendes&count_private=true&show_icons=true&locale=en" alt="davymendes" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davymendes&show_icons=true&locale=en&layout=compact" alt="davymendes" />
+<div align="center">
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=davymendes&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+ </div>
 </p>
-
 </p>
