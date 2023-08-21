@@ -12,8 +12,8 @@
 <p align="center">
 
 <div align="center">
-  <img align="rigth" height='150em'  src="https://github-readme-stats.vercel.app/api/top-langs?username=davymendes&show_icons=true&locale=en&layout=compact" alt="davymendes" />
-  <img align="left"  height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=davymendes&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  <img align="center" height='150em'  src="https://github-readme-stats.vercel.app/api/top-langs?username=davymendes&show_icons=true&locale=en&layout=compact" alt="davymendes" />
+  <img align="center"  height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=davymendes&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
  </div>
 </p>
 </p>
